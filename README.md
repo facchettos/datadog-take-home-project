@@ -1,3 +1,7 @@
+# Context
+This is a take home project given to me by datadog a while back.
+It got me past the take-home project stage. Feel free to clone/use it :) 
+
 # Build
 
 To build the project run `go build`, you need go 1.18 to build it, not that
